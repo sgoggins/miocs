@@ -1,0 +1,137 @@
+{  
+   "manifests":[  
+      {  
+         "standardsVersion": "v0.1.4",
+         "id":"machine generated",
+         "creator":"Megan Squire",
+         "dateCreated":"machine generated",
+         "researchObject":{  
+            "title":"Data Sets of Insults, Gender Stereotypes, Double Entendres in FLOSS Communication",
+            "creators":[  
+               {  
+                  "name":"Megan Squire",
+                  "email":"msquire@elon.edu"
+               },
+               {  
+                  "name":"Rebecca Gazda",
+                  "email":null
+               }
+            ],
+            "dates":{
+               "dateCreated":"2015-01-12"
+            },
+            "provenance":{  
+               "narrative":"full details in paper"
+            },
+            "bibliographicCitations":[  
+               "Squire, M. & Gazda, R. (2015). FLOSS as a source for profanity and insults: Collecting the data. In Proceedings of 48th Hawai'i International Conference on System Sciences (HICSS-48). IEEE. Hawaii, USA. 5290-5298",
+               "Howison, J., Conklin, M., & Crowston, K. (2006). FLOSSmole: A collaborative repository for FLOSS research data and analyses. International Journal of Information Technology and Web Engineering, 1(3), 17–26."
+            ],
+            "distributions":[  
+               {  
+                  "uri":"http://flossdata.syr.edu/data/insults/",
+                  "comment":"Folder with 7 data files & 1 PDF paper file, hosted on FLOSSmole.org"
+               }
+            ],
+            "files":[  
+               {  
+                  "name":"2012LTinsultsLKML.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains insults gleaned from messages sent to the LKML mailing list by Linus Torvalds during the year 2012",
+                  "size":"42 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/2012LTinsultsLKML.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates":
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"2013LTinsultsLKML.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains insults gleaned from messages sent to the LKML mailing list by Linus Torvalds during the year 2013",
+                  "size":"25 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/2013LTinsultsLKML.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates":
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"2014LTinsultsLKML.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains insults gleaned from messages sent to the LKML mailing list by Linus Torvalds during the year 2014",
+                  "size":"31 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/2014LTinsultsLKML.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates":
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"genderHicss2015.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains variety of gender-related comments made to IRC and email groups starting in 2004",
+                  "size":"25 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/genderHicss2015.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates":
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"genderLKMLHicss2015.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains variety of gender-related comments made to LKML starting in (?) 1998",
+                  "size":"51 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/genderLKMLHicss2015.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates": 
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"momHicss2015.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains variety of maternal insults (mom jokes) including setup line and punch line",
+                  "size":"35 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/momHicss2015.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates":
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"twssHicss2015.tsv.txt",
+                  "format":"tsv",
+                  "abstract":"Contains variety of that's what she said (TWSS) jokes, including setup line and punch line",
+                  "size":"22 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/twssHicss2015.tsv.txt",
+                  "permissions":"Open Database License 1.0",
+                  "dates":
+                     {
+                        "dateCreated":"2015-01-12"
+                     }
+               },
+               {  
+                  "name":"hicssInsultsv2.pdf",
+                  "format":"PDF",
+                  "abstract":"Link to paper describing this data set of insult/joke files",
+                  "size":"323 K",
+                  "uri":"http://flossdata.syr.edu/data/insults/hicssInsultsv2.pdf",
+                  "permissions":"",
+                  "dates":
+                     {
+                        "dateCreated":"2014-12-31"
+                     }
+               }
+            ]
+         }
+      }
+   ]
+}
